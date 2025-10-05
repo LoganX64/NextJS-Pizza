@@ -116,5 +116,5 @@ MIT License
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Jitin K**  
 [GitHub](https://github.com/Loganx64) •
